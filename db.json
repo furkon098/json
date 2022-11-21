@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "nama": "furqon tedy pratama",
+      "npm" : "19312307",
+      "kelas": "IF 19 A"
     }
   ],
   "profile": {
